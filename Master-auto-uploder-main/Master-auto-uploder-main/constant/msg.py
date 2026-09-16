@@ -26,7 +26,7 @@ BATCH_STATUS = """<b>➣━━━━━━━ 📊 BATCH STATUS ━━━━━�
 🎥 <b>Videos:</b> {}
 ⏰ <b>Schedule:</b> {}
 
-<b>➣━━━━꧁༒☬SAHIL☬༒꧂━━━━━➣</b>"""
+<b>➣━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━➣</b>"""
 
 BATCH_UPDATED = "✅Batch Updated Successfully✅"
 
@@ -46,20 +46,20 @@ CONFIRM_CONFIG = """<b>➣━━━━━━━ 📋 CONFIRMATION ━━━━�
 📝 <b>Batch Name:</b> {}
 👥 <b>Group ID:</b> {}
 ⏰ <b>Schedule:</b> {}
-💰 <b>Credit:</b> {}
+💰 <b>𓆩𝐒𝐚𝐡𝐢𝐥𓆪</b> {}
 
 <b>Confirm to start processing?</b>
 """
 
-CREDIT_OPTIONS = """<b>➣━━━━━━━꧁༒☬SAHIL☬༒꧂ ━━━━━━━➣</b>
+CREDIT_OPTIONS = """<b>➣━━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪 ━━━━━━━➣</b>
 
-<b>꧁༒☬SAHIL☬༒꧂:</b>
+<b>𓆩𝐒𝐚𝐡𝐢𝐥𓆪:</b>
 
 1️⃣ Caption only: `Admin`
 2️⃣ Caption + Watermark: `Admin | @channel`
 3️⃣ No credit: Send `no`
 
-<b>➣━━━━━━꧁༒☬SAHIL☬༒꧂━━━━➣</b>"""
+<b>➣━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━➣</b>"""
 
 DAILY_UPDATE_COMPLETED = """<b>➣━━━━━━━ 📊 DAILY UPDATE COMPLETED ━━━━━━━➣</b>
 
@@ -71,7 +71,7 @@ DAILY_UPDATE_COMPLETED = """<b>➣━━━━━━━ 📊 DAILY UPDATE COMPLE
 📄 <b>New PDFs:</b> {}
 🎥 <b>New Videos:</b> {}
 
-<b>➣━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━➣</b>"""
+<b>➣━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━➣</b>"""
 
 DISCLAIMER = """
 <b> ======= ⚖️ LEGAL DISCLAIMER =======</b>
@@ -87,7 +87,7 @@ This bot is designed for educational purposes only. The developers are not respo
 
 Use at your own risk.</i>
 
-<b>➣━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━━━➣</b>"""
+<b>➣━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━━━➣</b>"""
 
 ERROR_UPLOADING = """╭━━━━━━━━━━━━━━➣
 ┣⪼ ⚠️ **Download Failed!**
@@ -102,7 +102,7 @@ GENERAL_ERROR = """<b>➣━━━━━━━ ⚠️ ERROR ━━━━━━�
 
 Something went wrong while processing your request. Please try again later.
 
-<b>➣━━━━━꧁༒☬SAHIL☬༒꧂━━━━━━➣</b>"""
+<b>➣━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━━➣</b>"""
 
 GROUP_ERROR = """<b>➣━━━━━━━ ⚠️ ERROR ━━━━━━━➣</b>
 
@@ -113,7 +113,7 @@ Please verify:
 2. The bot is an admin in the group
 3. The group allows bot messages
 
-<b>➣━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━━━➣</b>"""
+<b>➣━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━━━➣</b>"""
 
 GROUP_SETUP = """<b>➣━━━━━━━ 👥 GROUP SETUP ━━━━━━━➣</b>
 
@@ -124,7 +124,7 @@ Please follow these steps:
 2️⃣ Add the bot as admin
 3️⃣ Send the group ID here
 
-<b>➣━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━━━➣</b>"""
+<b>➣━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━━━➣</b>"""
 
 HELP = """<b>➣━━━━━━━ 📚 HELP ━━━━━━━➣</b>
 
@@ -139,7 +139,7 @@ HELP = """<b>➣━━━━━━━ 📚 HELP ━━━━━━━➣</b>
 /restart - Restart bot (admin)
 /id - Get chat ID
 
-<b>➣━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━━➣</b>
+<b>➣━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━━➣</b>
 
 {}"""
 
@@ -148,14 +148,14 @@ INVALID_TIME_FORMAT = """<b>➣━━━━━━━ ❌ ERROR ━━━━━�
 ⚠️ Invalid time format! Please use 24-hour format (HH:MM)
 Example: 14:30 for 2:30 PM
 
-<b>➣━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━➣</b>"""
+<b>➣━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━➣</b>"""
 
 INVALID_TOKEN = """<b>➣━━━━━━━ ❌ ERROR ━━━━━━━➣</b>
 
 <b>Invalid Token</b>
 Please provide a valid authentication token to proceed.
 
-<b>➣━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━━━➣</b>"""
+<b>➣━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━━━➣</b>"""
 
 LAST_BATCH_COMPLETED = """<b>➣━━━━━━━ 📊 BATCH COMPLETED ━━━━━━━➣</b>
 
@@ -167,14 +167,14 @@ LAST_BATCH_COMPLETED = """<b>➣━━━━━━━ 📊 BATCH COMPLETED ━�
 
 <b>✅ Batch upload completed successfully!</b>
 
-<b>➣━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━➣</b>"""
+<b>➣━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━➣</b>"""
 
 LOGIN_ERROR = """<b>➣━━━━━━━ ❌ ERROR ━━━━━━━➣</b>
 
 <b>Login Failed!</b>
 <i>Error: {}</i>
 
-<b>➣━━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━━➣</b>"""
+<b>➣━━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━━➣</b>"""
 
 LOGIN_OPTIONS = """<b>➣━━━━━━━━ 🔐 LOGIN ━━━━━━━➣</b>
 
@@ -186,14 +186,14 @@ LOGIN_OPTIONS = """<b>➣━━━━━━━━ 🔐 LOGIN ━━━━━━�
 
 <i>Please choose one of the above methods to continue...</i>
 
-<b>➣━━━━━꧁༒☬SAHIL☬༒꧂━━━━━➣</b>"""
+<b>➣━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━➣</b>"""
 
 LOGIN_SUCCESS = """<b>➣━━━━━━━ ✅ SUCCESS ━━━━━━━➣</b>
 
 <b>Login Successful!</b>
 <i>Message: {}</i>
 
-<b>➣━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━➣</b>"""
+<b>➣━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━➣</b>"""
 
 NO_BATCH_FOUND = """<b>➣━━━━━━━ ❌ ERROR ━━━━━━━➣</b>
 
@@ -202,7 +202,7 @@ NO_BATCH_FOUND = """<b>➣━━━━━━━ ❌ ERROR ━━━━━━━�
 • Your batches may have expired
 • Try adding a new batch using /addbatch
 
-<b>➣━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━━━➣</b>"""
+<b>➣━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━━━➣</b>"""
 
 NO_DATA_ERROR = """<b>➣━━━━━━━ ❌ ERROR ━━━━━━━➣</b>
 
@@ -211,14 +211,14 @@ NO_DATA_ERROR = """<b>➣━━━━━━━ ❌ ERROR ━━━━━━━�
 The selected batch appears to be empty.
 Please check the batch and try again.
 
-<b>➣━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━━➣</b>"""
+<b>➣━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━━➣</b>"""
 
 NO_NEW_CLASSES = """<b>➣━━━━━━━ ❌ NO NEW CLASSES ━━━━━━━➣</b>
 
 <b>No new classes today for course {}</b>
 <b>Go and Enjoy your day! 🎉</b>
 
-<b>➣━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━➣</b>"""
+<b>➣━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━➣</b>"""
 
 OTP_SENT = """<b>➣━━━━━━━ 📱 OTP ━━━━━━━➣</b>
 
@@ -226,7 +226,7 @@ OTP_SENT = """<b>➣━━━━━━━ 📱 OTP ━━━━━━━➣</b>
 An OTP has been sent to your mobile number.
 Please enter the OTP below:
 
-<b>➣━━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━➣</b>"""
+<b>➣━━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━➣</b>"""
 
 PDF_CAPTION = """╭━━━━━━━━━━━━━━➣
 ┣⪼ 📄 <b>PDF Title:</b>
@@ -252,7 +252,7 @@ RECOVERING_BATCH = """<b>➣━━━━━━━ 📊 RECOVERING BATCH ━━�
 
 <b>Recovering batch upload... Please wait.</b>
 
-<b>➣━━━━━━꧁༒☬SAHIL☬༒꧂━━━━➣</b>"""
+<b>➣━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━➣</b>"""
 
 SCHEDULE_TIME = """<b>➣━━━━━━━ ⏰ SCHEDULE ━━━━━━━➣</b>
 
@@ -261,7 +261,7 @@ Example: <code>14:30</code> for 2:30 PM IST
 
 Send <code>no</code> to skip scheduling.
 
-<b>➣━━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━➣</b>"""
+<b>➣━━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━➣</b>"""
 
 SETUP_CANCELLED = """<b>➣━━━━━━━ ❌ CANCELLED ━━━━━━━➣</b>
 
@@ -269,14 +269,14 @@ SETUP_CANCELLED = """<b>➣━━━━━━━ ❌ CANCELLED ━━━━━�
 
 Batch update configuration was aborted.
 
-<b>➣━━━━━━━꧁༒☬SAHIL☬༒꧂━━━━➣</b>"""
+<b>➣━━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━➣</b>"""
 
 SETUP_SUCCESS = """<b>➣━━━━━━━ ✅ SUCCESS ━━━━━━━➣</b>
 
 <b>Setup Successful!</b>
 Your batch has been configured for auto-update.
 
-<b>➣━━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━➣</b>"""
+<b>➣━━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━➣</b>"""
 
 START = """
 <b>➣━━━━━━━ 🤖 WELCOME ━━━━━━━➣</b>
@@ -291,7 +291,7 @@ START = """
 ⏰ Schedule Daily Updates
 📊 Batch Management
 
-<b>➣━━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━➣</b>
+<b>➣━━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━➣</b>
 
 {}"""
 
@@ -303,7 +303,7 @@ THUMBNAIL_OPTIONS = """<b>➣━━━━━━━ 🖼 THUMBNAIL ━━━━�
 2️⃣ Send `no` for default thumbnail
 3️⃣ Send an image directly
 
-<b>➣━━━━━━━━꧁༒☬SAHIL☬༒꧂━━━━━➣</b>"""
+<b>➣━━━━━━━━𓆩𝐒𝐚𝐡𝐢𝐥𓆪━━━━━➣</b>"""
 
 VIDEO_CAPTION = """╭━━━━━━━━━━━━━━➣
 ┣⪼ 🎥 <b>Video Title:</b>
