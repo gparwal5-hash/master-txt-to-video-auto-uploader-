@@ -2,7 +2,7 @@
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/nihubora264/appx-auto-4)
 
-## Code Write ༒☬𝗦AHIL DEVLOPER☬༒
+## Code Write 𓆩𝐒𝐚𝐡𝐢𝐥𓆪
 
 
 # AppxAutoUploader Telegram Bot
@@ -167,4 +167,4 @@ For support, please join our [༒☬𝗦AHIL DEVLOPER☬༒
 - Hero
 
 ---
-Made with ❤️ by [༒☬𝗦AHIL DEVLOPER☬༒] 
+Made with ❤️ by 𓆩𝐒𝐚𝐡𝐢𝐥𓆪 
