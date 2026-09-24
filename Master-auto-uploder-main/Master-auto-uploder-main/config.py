@@ -10,5 +10,5 @@ class Config(object):
     ADMIN_ID = 5445688589
     DB_URL = "mongodb+srv://sg4828990_db_user:<YOUR_MONGODB_PASSWORD>@cluster0.2brxvvv.mongodb.net/master_txt_to_video_auto_uploader?retryWrites=true&w=majority&appName=Cluster0"
     LOG_CHANNEL = "-1003113891183" # Your Log Channel ID (Bot ko ADMIN BNAYE)
-    USERLINK = "http://t.me/masterautouploader_bot"
+    USERLINK = ""
     
